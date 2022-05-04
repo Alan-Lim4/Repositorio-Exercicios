@@ -1,0 +1,5 @@
+o que eu vou aprender
+
+-Unix
+-Bash
+-Git
