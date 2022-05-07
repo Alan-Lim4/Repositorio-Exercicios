@@ -1,0 +1,12 @@
+h1 {
+    color: orange;
+  }
+   h1{
+     font-size: 65px;
+   }
+   ul {
+     background-color: rgb(122, 133, 279);
+   }
+   .change-color {
+     background-color: peru;
+   }
