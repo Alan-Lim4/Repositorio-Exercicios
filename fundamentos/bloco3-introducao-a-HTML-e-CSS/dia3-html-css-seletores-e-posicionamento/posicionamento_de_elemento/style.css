@@ -1,0 +1,29 @@
+
+#centralizado {
+
+  text-align: center;
+}
+
+li:hover {
+
+  background-color: coral;
+
+}
+
+li:active  {
+
+color: seagreen;
+
+}
+
+ol, ul {
+
+  list-style: none;
+  
+}
+
+
+
+
+
+
