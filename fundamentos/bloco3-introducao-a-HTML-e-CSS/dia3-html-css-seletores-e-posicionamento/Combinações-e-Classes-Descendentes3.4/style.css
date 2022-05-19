@@ -1,0 +1,9 @@
+ol:nth-child(2n) li{
+    
+    text-transform: uppercase;
+}
+
+#lista:nth-child(odd) {
+
+    font-size: 100px;
+}
